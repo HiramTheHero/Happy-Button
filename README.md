@@ -1,5 +1,3 @@
-# Happy-Button
-Click and Get Complimented!
 <!doctype html>
 <html>
  <head> 
